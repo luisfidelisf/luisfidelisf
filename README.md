@@ -40,24 +40,33 @@ Me chamo Luis Gustavo Fidelis, tenho 18 anos e sou de Brasília. Sou desenvolved
                  
  <img 
   align="left"
-  alt="phyton"
-  title="phyton"
+  alt="HTML"
+  title="HTML"
   width="30px" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
   <img 
  align="left"
-  alt="phyton"
-  title="phyton"
+  alt="Phyton"
+  title="Phyton"
   width="30px" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
  <img 
 align="left"
-  alt="mysql"
-  title="mysql"
+  alt="Mysql"
+  title="Mysql"
   width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+
+  <img 
+  align="left"
+  alt="C++"
+  title="C++"
+  width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
  
  <br/>
  <br/>
