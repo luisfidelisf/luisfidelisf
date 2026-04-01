@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou Luis Gustavo Fidelis, desenvolvedor com foco em desenvolvimento back-end e experiência na construção de aplicações full stack.
+Sou um desenvolvedor com foco em desenvolvimento back-end e experiência na construção de aplicações full stack.
 
 Possuo formação em Informática e curso técnico em Análise e Desenvolvimento de Sistemas, com planos de iniciar a graduação em Engenharia de Software. Tenho como objetivo evoluir constantemente minhas habilidades por meio de estudos práticos e desenvolvimento de projetos reais.
 
