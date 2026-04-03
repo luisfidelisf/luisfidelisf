@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou um desenvolvedor com foco em desenvolvimento back-end e experiência na construção de aplicações full stack.
+Sou desenvolvedor Full Stack com experiência na construção de aplicações completas, atuando tanto no front-end quanto no back-end.
 
-Possuo formação em Informática e curso técnico em Análise e Desenvolvimento de Sistemas, com planos de iniciar a graduação em Engenharia de Software. Tenho como objetivo evoluir constantemente minhas habilidades por meio de estudos práticos e desenvolvimento de projetos reais.
+Possuo formação em Informática e curso técnico em ADS, com interesse em iniciar a graduação em Engenharia de Software. Busco evolução constante por meio de estudos práticos e desenvolvimento de projetos reais.
 
-Atualmente, concentro meus esforços na criação de APIs, sistemas escaláveis e bem estruturados, aplicando boas práticas como organização de código, padrões de projeto e arquitetura limpa.
+Atualmente, concentro meus esforços no desenvolvimento de interfaces modernas e APIs escaláveis, aplicando boas práticas como organização de código, padrões de projeto e arquitetura limpa, com foco em desempenho e experiência do usuário.
 
 ---
 
